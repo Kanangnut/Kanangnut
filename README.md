@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Cat Kanangnut
-- 👀 Experiece on HTML, CSS, JS, C and C++
+- ⚡ Experiece on HTML, CSS, JS, C and C++
 - 🌱 Learn Libraries, Spark, Hadoop, Machine Learning, ..., n
 - 💞️ Take a look at my Portfolio Website: https://kanangnut.github.io 
 - 📫 Email me at: kanangnut.s@gmail.com
-
+- ✨ Fun Fact: Life long learning 
 
 <!---
 Kanangnut/Kanangnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
