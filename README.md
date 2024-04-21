@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Cat 
-- ⚡ Experiece on HTML, CSS, JS
+- 👋 Hi, I’m Cat
 - 🌱 Learn Python libraries, Spark, Hadoop, Machine Learning, ..., n
+- ⚡ Experiece on HTML, CSS, JS
 - 💞️ Take a look at my Portfolio Website: https://kanangnut.github.io 
 - 📫 Email me at: kanangnut.s@gmail.com
 - ✨ Fun Fact: Life long learning 
