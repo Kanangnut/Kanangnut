@@ -5,7 +5,7 @@
 - 📫 Email me at: kanangnut.s@gmail.com
 - ✨ Fun Fact: Life long learning 
 
-if you wanna see my code, pls contact me 📟
+if you wanna see my code, pls contact me ✉️
 
 <!---
 Kanangnut/Kanangnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
